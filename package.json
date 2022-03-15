@@ -1,0 +1,16 @@
+{
+  "name": "Software-Terms-Notion-Wiki",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Syncs Notion Database SE terms with definitions from Wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "author": "Salem Fenn",
+  "dependencies": {
+    "@notionhq/client": "^0.4.2",
+    "dotenv": "^10.0.0"
+  }
+}
